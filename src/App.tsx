@@ -18,7 +18,7 @@ function App() {
   return (
     <>
       {/* <button onClick={() => setOpen(true)}>Open Lightbox</button> */}
-     <h1 className="header">Dashboard</h1>
+      <h1 className="header">PowerBI Dashboards</h1>
       <Images
         data={slides}
         onClick={(currentIndex) => setIndex(currentIndex)}
