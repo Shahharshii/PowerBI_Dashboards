@@ -28,7 +28,7 @@ function App() {
         plugins={[Captions, Download, Thumbnails]}
         captions={{
           showToggle: true,
-          descriptionTextAlign: "end",
+          descriptionTextAlign: "center",
         }}
         // open={open}
         // close={() => setOpen(false)}
